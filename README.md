@@ -210,10 +210,10 @@ and better than a fabricated entry.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArmaanAli971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-pi-six-87.vercel.app/api?username=ArmaanAli971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmaanAli971&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanAli971&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-pi-six-87.vercel.app/api/top-langs/?username=ArmaanAli971&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="49%"/>
 
 </div>
 
