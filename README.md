@@ -223,7 +223,7 @@ and better than a fabricated entry.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArmaanAli971&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy-rho-eosin.vercel.app/?username=ArmaanAli971&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
