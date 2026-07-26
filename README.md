@@ -184,13 +184,10 @@ and better than a fabricated entry.
 
 ### Achievements
 
-<!-- Only add real, verifiable achievements (hackathon placements, paper acceptances, competition results). -->
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| *(add real achievements here — hackathons, publications, competitions)* | |
 
 </div>
 
@@ -200,7 +197,7 @@ and better than a fabricated entry.
 
 <!-- Only list certifications you actually hold. Group by provider once you have real ones. -->
 
-*(add real certifications here, grouped by provider — e.g. AWS, NPTEL, Coursera)*
+
 
 ---
 
