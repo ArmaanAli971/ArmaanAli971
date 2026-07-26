@@ -184,10 +184,13 @@ and better than a fabricated entry.
 
 ### Achievements
 
-
 <div align="center">
 
 | Recognition | Details |
+|---|---|
+| 🎯 Participant — TechnoVision 2K26 | Startup Spark competition, TSSM BSCOER, Pune (April 2026) |
+| 🏆 Trinovate Synergy 1.0 — Hackathon | Innovista track, Trinity Academy of Engineering, Pune |
+| 🎓 Project Expo — BharatiYugam 2025 | Certificate of Appreciation, Bharati Vidyapeeth's College of Engineering for Women, Pune |
 
 </div>
 
@@ -195,20 +198,11 @@ and better than a fabricated entry.
 
 ### Certifications
 
-<!-- Only list certifications you actually hold. Group by provider once you have real ones. -->
+**NASSCOM FutureSkills Prime** — Introduction to Artificial Intelligence · Introduction to Deep Learning · Introduction to Natural Language Processing · Introduction to Data Science · Introduction to Computer Vision · Introduction to Robotic Process Automation
 
-
+**Skills4Future (College Foundation Program)** — Green Skills and Artificial Intelligence
 
 ---
-
-### Coding Profiles
-
-<!-- Replace 'your-handle' with your real usernames on each platform, or remove platforms you don't use. -->
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-14151a?style=for-the-badge&logo=leetcode&logoColor=8b5cf6)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-14151a?style=for-the-badge&logo=geeksforgeeks&logoColor=8b5cf6)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-14151a?style=for-the-badge&logo=hackerrank&logoColor=8b5cf6)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-14151a?style=for-the-badge&logo=codechef&logoColor=8b5cf6)](#)
 
 ---
 
