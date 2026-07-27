@@ -219,15 +219,7 @@ and better than a fabricated entry.
 
 ---
 
-### GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArmaanAli971&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ### Contribution Activity
 
